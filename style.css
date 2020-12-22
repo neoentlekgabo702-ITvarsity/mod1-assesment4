@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    background-color: beige;
+    padding-left: 420px;
+}
+tr{
+    background-color: beige;
+}
+
+table{
+    margin-left: 330px;
+    border-collapse: collapse;
+}
+
+tr:hover{
+    background-color:aqua;
+}
